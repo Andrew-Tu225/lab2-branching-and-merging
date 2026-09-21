@@ -14,7 +14,7 @@ This recipe makes a three-layer celebration cake with a raspberry filling betwee
 - 1/2 cup vegetable oil
 - 2 teaspoons vanilla extract
 - 3/4 cup unsweetened cocoa powder
-- 1 cup dark chocolate chips
+- 1 cup dark chocolate
 
 ## Filling
 
@@ -63,3 +63,5 @@ This recipe makes a three-layer celebration cake with a raspberry filling betwee
 13. Decorate the cake with chocolate curls.
 
 14. Add a drizzle of salted caramel sauce just before serving.
+
+15. Cook it for 12 hours
